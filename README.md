@@ -4,6 +4,6 @@ Keyboard
 ## Install
 
 ```
-  bower intall keyboard.js --save
+  bower install keyboard.js --save
 ```
 
